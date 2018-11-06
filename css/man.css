@@ -1,0 +1,33 @@
+*{
+	list-style: none;
+	margin: 5px;
+	padding: 0;
+}
+
+body{
+	background: #F0F0DF;
+}
+
+fieldset {
+ border: 2px solid #FAA21B;
+ border-radius: 2px;
+ font-family: sans-serif;
+ margin: 0 auto;
+ padding: 15px;
+ width: 90%;
+}
+
+fieldset legend {
+  background: #3F5866;  
+  border-radius: 2px;
+  color: white ;
+  font-size: 24px;
+  font-weight: bold;
+  border: solid 1px #FAA21B;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  box-shadow: 0 0 0 5px #BDD3DE;
+  margin-left: 20px;
+  padding: 5px 10px;
+}
